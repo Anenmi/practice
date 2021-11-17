@@ -5,6 +5,7 @@ python notebooks made during training
 sep 2021 - 
 * [Class Creation - Logistic Regression](https://github.com/Anenmi/practice/blob/main/gradient_descent_by_hand_logregr.ipynb)
 * [Churn Rate Prediction in Telecom - CatBoostClassifier](https://github.com/Anenmi/practice/blob/main/telecom_churn_rate-catboost.ipynb)
+* [Cleassification MNIST - FC and Convolutional NN](https://github.com/Anenmi/practice/blob/main/dense_and_convolutional_nn.ipynb)
 
 
 ## Machine Learning 1 (HSE, E.Sokolov):
