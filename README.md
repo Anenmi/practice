@@ -4,8 +4,8 @@ python notebooks made during training
 
 ## Kaggle
 nov 2021 
-* [SberMarket Competition](https://github.com/Anenmi/practice/blob/main/gradient_descent_by_hand_logregr.ipynb) - part 1. Data analysis, feature engineering, Lasso clf
-[click](https://www.kaggle.com/c/sbermarket-internship-competition/overview)
+* [SberMarket Competition](https://github.com/Anenmi/practice/blob/main/gradient_descent_by_hand_logregr.ipynb) - part 1. Data analysis, feature engineering, lasso clf
+[click to Kaggle](https://www.kaggle.com/c/sbermarket-internship-competition/overview)
 
 
 ## Deep Learning School (MIPT):
