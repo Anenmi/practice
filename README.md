@@ -1,5 +1,5 @@
 # practice 
-python notebooks made during training
+python notebooks with ml solutions
 
 
 ## Kaggle
